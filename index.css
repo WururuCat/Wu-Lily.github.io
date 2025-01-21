@@ -9,10 +9,10 @@ body{
     background-size: 30px 30px;
 }
 .home{
-    color:#000;
-    background-color:#ccc;
-    boder:1px #000;
+    color: #000;
+    background-color: #ccc;
+    boder: 1px #000;
 }
 .home:hover{
-    background-color:#fff;
+    background-color: #fff;
 }
