@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f9f2ec;
+    background-image: radial-gradient(#f7e7d2 30%, transparent 0);
+    background-size: 30px 30px;
+}
