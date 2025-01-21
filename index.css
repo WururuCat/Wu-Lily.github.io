@@ -8,3 +8,10 @@ body{
     background-image: radial-gradient(#f7e7d2 30%, transparent 0);
     background-size: 30px 30px;
 }
+.home{
+    background-color:#ccc;
+    boder:1px #000;
+}
+.home:hover{
+    background-color:#fff
+}
